@@ -23,7 +23,7 @@ function Component() {
         autoCapitalize="none"
         enablesReturnKeyAutomatically
         blurOnSubmit={false}
-        placeholder="Digite uma mensagem."
+        placeholder="Type a message."
       />
     </Container>
   );

@@ -139,7 +139,7 @@ const UserProfile = ({ route }) => {
                   textAlign: "center",
                 }}
               >
-                Compartilhar perfil de {firstName}
+                Share {firstName}'s profile
               </Description>
             </ShareButton>
             <ReportButton>
@@ -150,7 +150,7 @@ const UserProfile = ({ route }) => {
                   textAlign: "center",
                 }}
               >
-                Denunciar {firstName}
+                Report {firstName}
               </Description>
             </ReportButton>
           </Content>

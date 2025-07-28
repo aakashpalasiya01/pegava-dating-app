@@ -2,7 +2,7 @@
   "displayName": "Pegava",
   "expo": {
     "name": "Pegava",
-    "description": "Aplicativo de relacionamento",
+    "description": "Dating app",
     "scheme": "pegava",
     "slug": "pegava",
     "icon": "./src/assets/images/icon.png",

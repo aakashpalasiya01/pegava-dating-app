@@ -23,7 +23,7 @@ export function* fetchUsersRequest() {
       })
     );
   } catch (err) {
-    const error = { message: "Alguma coisa deu errada" };
+    const error = { message: "Something went wrong" };
     yield put(Actions.users.list.failure(error));
   }
 }
